@@ -1,0 +1,14 @@
+id,value
+finance,	
+finance.investment	
+finance.investment.stocks,5000
+finance.investment.bonds,3000
+finance.investment.mutual_funds,2000
+finance.insurance,	
+finance.insurance.life_insurance,4000
+finance.insurance.health_insurance,3500
+finance.insurance.property_insurance,2500
+finance.personal_finance,	
+finance.personal_finance.budgeting,6000
+finance.personal_finance.savings,4500
+finance.personal_finance.credit,3500
